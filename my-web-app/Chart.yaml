@@ -1,0 +1,8 @@
+apiVersion: v2
+name: my-web-app
+version: 0.1.0
+description: A Helm chart for my web application
+maintainers:
+  - name: SangaviL12
+    email: sangavi.l@continube.com
+appVersion: 1.0.0
