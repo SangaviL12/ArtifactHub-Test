@@ -1,0 +1,18 @@
+---
+title: My Web Application Helm Chart
+description: A Helm chart for deploying My Web Application
+version: 1.0.0
+appVersion: 1.0.0
+icon: https://github.com/kubernetes/community/blob/master/icons/png/resources/labeled/user-128.png
+keywords:
+  - web
+  - application
+  - helm
+  - chart
+maintainers:
+  - name: SangaviL12
+    email: sangavi.l@continube.com
+repository:
+  type: git
+  url: https://github.com/SangaviL12/ArtifactHub-Test
+license: Apache-2.0
